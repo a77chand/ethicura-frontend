@@ -6,3 +6,4 @@ dist/
 .vercel
 public/ort/
 public/mediapipe/
+public/__eval
